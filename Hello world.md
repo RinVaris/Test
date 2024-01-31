@@ -1,3 +1,3 @@
 ## Hello!
 
-Bios - best cat!
+Bios is the best cat
